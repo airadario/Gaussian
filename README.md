@@ -16,10 +16,10 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Program:
 ```
 
-'''Program to solve a matrix using Gaussian elimination without partial pivoting.
+Program to solve a matrix using Gaussian elimination without partial pivoting.
 Developed by: A.Aira Dario
 RegisterNumber: 25016155
-'''
+
 import numpy as np
 import sys
 n=int(input())
